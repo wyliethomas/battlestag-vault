@@ -15,3 +15,8 @@ Tasks extracted from communication channels and other sources.
   - <@U0NHL7JBF> is requesting Wylie Thomas to call out a task so Emily can test
   - [View](https://slack.com/archives/G2ALJBRD1/p1764705509786899)
 
+- [ ] Review server performance for potential issues and troubleshoot
+  - **Slack**: pxp-hq | @Emily Farley | 2025-12-02
+  - Emily Farley asked about possible performance issues on the server side, which could be causing the error code 524.
+  - [View](https://slack.com/archives/G2ALJBRD1/p1764707605628229)
+
