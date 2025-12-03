@@ -23,6 +23,11 @@
   - Front-end breaks down when user is logged in, as mentioned by Emily Farley
   - [View](https://slack.com/archives/G2ALJBRD1/p1764775320845749)
 
+- [ ] Review GitHub repository for issues
+  - **Slack**: pxp-hq | @Emily Farley | 2025-12-03
+  - Emily Farley sent a link to the skills GitHub repository
+  - [View](https://slack.com/archives/G2ALJBRD1/p1764781844800609)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
