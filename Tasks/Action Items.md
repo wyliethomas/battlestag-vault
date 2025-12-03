@@ -18,6 +18,11 @@
   - Emily Farley asked about possible performance issues on the server side, which could be causing the error code 524.
   - [View](https://slack.com/archives/G2ALJBRD1/p1764707605628229)
 
+- [ ] Investigate and fix front-end issue
+  - **Slack**: pxp-hq | @Wylie Thomas | 2025-12-03
+  - Front-end breaks down when user is logged in, as mentioned by Emily Farley
+  - [View](https://slack.com/archives/G2ALJBRD1/p1764775320845749)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
