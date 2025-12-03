@@ -1,8 +1,6 @@
 # Action Items
 
-Tasks extracted from communication channels and other sources.
-
----
+## My Tasks
 
 - [x] Test task from server
 - [ ] Meet with Karin Franklin and discuss Bryan's approved timeframe
@@ -20,3 +18,14 @@ Tasks extracted from communication channels and other sources.
   - Emily Farley asked about possible performance issues on the server side, which could be causing the error code 524.
   - [View](https://slack.com/archives/G2ALJBRD1/p1764707605628229)
 
+## Following Up On
+
+- [ ] **@karin** - Prepare sales report for November
+  - **Slack**: pxp-hq | @Wylie Thomas | 2025-12-03
+  - Requested by Wylie Thomas on 2025-12-03 00:36:30 (slack) - Channel pxp-hq, @karin needs to do this by Thursday morning.
+  - [View](https://slack.com/archives/G2ALJBRD1/p1764722190530499)
+
+- [ ] **@@emilyfarley17** - Write spec for task on CRM card
+  - **Trello**: PXP-OS | @wyliepxp | 2025-12-02
+  - Request from @wyliepxp to Emily Farley
+  - [View](https://trello.com/c/CRM)
