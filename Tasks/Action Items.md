@@ -28,6 +28,11 @@
   - Emily Farley sent a link to the skills GitHub repository
   - [View](https://slack.com/archives/G2ALJBRD1/p1764781844800609)
 
+- [ ] Investigate issues with Wylie's church account
+  - **Slack**: pxp-hq | @Emily Farley | 2025-12-04
+  - Wylie's church account has some issues as per client report
+  - [View](https://slack.com/archives/G2ALJBRD1/p1764881031542009)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
