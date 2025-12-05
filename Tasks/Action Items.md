@@ -38,6 +38,11 @@
   - To help them send referrals through our partner portal
   - [View](https://slack.com/archives/G2ALJBRD1/p1764960514187619)
 
+- [ ] Get on a call with Nephi to plan next steps
+  - **Slack**: pxp-hq | @Emily Farley | 2025-12-05
+  - Nephi is waiting for updates and may want to get a hold of someone at ICS too
+  - [View](https://slack.com/archives/G2ALJBRD1/p1764961175067979)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
