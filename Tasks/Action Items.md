@@ -33,6 +33,11 @@
   - Wylie's church account has some issues as per client report
   - [View](https://slack.com/archives/G2ALJBRD1/p1764881031542009)
 
+- [ ] Send login details to Pete and BigRedJelly
+  - **Slack**: pxp-hq | @Emily Farley | 2025-12-05
+  - To help them send referrals through our partner portal
+  - [View](https://slack.com/archives/G2ALJBRD1/p1764960514187619)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
