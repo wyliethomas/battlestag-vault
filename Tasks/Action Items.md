@@ -43,6 +43,11 @@
   - Nephi is waiting for updates and may want to get a hold of someone at ICS too
   - [View](https://slack.com/archives/G2ALJBRD1/p1764961175067979)
 
+- [ ] Provide the PCC report
+  - **Slack**: pxp-hq | @Emily Farley | 2025-12-05
+  - Starting the week as per Emily's initial message
+  - [View](https://slack.com/archives/G2ALJBRD1/p1764968860708089)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
