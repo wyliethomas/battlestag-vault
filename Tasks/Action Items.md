@@ -77,6 +77,11 @@
   - Message mentions that Wylie Thomas has access to this information (agent == command in opencode)
   - [View](https://slack.com/archives/G2ALJBRD1/p1765228198028199)
 
+- [ ] Get an update from person at ICS
+  - **Slack**: pxp-hq | @Emily Farley | 2025-12-08
+  - Last heard from him on Friday night, no recent updates.
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765228468198689)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
