@@ -58,6 +58,11 @@
   - Messages appear to be casual conversations without any specific tasks or actions requested
   - [View](https://slack.com/archives/G2ALJBRD1/p1765162893153649)
 
+- [ ] Automation of the first part
+  - **Slack**: pxp-hq | @Wylie Thomas | 2025-12-08
+  - Message mentions 'we could probably automate' without specifying who or how
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765208335684369)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
