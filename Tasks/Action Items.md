@@ -63,6 +63,10 @@
   - Message mentions 'we could probably automate' without specifying who or how
   - [View](https://slack.com/archives/G2ALJBRD1/p1765208335684369)
 
+- [ ] Co-author a book titled 'The REAL 4-hour work week'
+  - **Slack**: pxp-hq | @Wylie Thomas | 2025-12-08
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765208650932169)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
