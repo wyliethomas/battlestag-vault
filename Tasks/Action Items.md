@@ -72,6 +72,11 @@
   - Wylie Thomas needs to confirm access with Evan, who will follow up with Wylie and the team.
   - [View](https://slack.com/archives/G2ALJBRD1/p1765220305687279)
 
+- [ ] Investigate and provide feedback on robob's work based on its commands
+  - **Slack**: pxp-hq | @Wylie Thomas | 2025-12-08
+  - Message mentions that Wylie Thomas has access to this information (agent == command in opencode)
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765228198028199)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
