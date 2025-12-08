@@ -67,6 +67,11 @@
   - **Slack**: pxp-hq | @Wylie Thomas | 2025-12-08
   - [View](https://slack.com/archives/G2ALJBRD1/p1765208650932169)
 
+- [ ] Confirm access to auto coding agent for Evan and Emily
+  - **Slack**: pxp-hq | @Wylie Thomas | 2025-12-08
+  - Wylie Thomas needs to confirm access with Evan, who will follow up with Wylie and the team.
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765220305687279)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
