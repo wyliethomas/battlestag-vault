@@ -48,6 +48,11 @@
   - Starting the week as per Emily's initial message
   - [View](https://slack.com/archives/G2ALJBRD1/p1764968860708089)
 
+- [ ] Manage a Trello board
+  - **Slack**: pxp-hq | @Wylie Thomas | 2025-12-08
+  - To manage the workflow for Wylie's robot (referenced in Message 1)
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765152534626059)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
