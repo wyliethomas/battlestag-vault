@@ -97,6 +97,11 @@
   - Wylie Thomas is asking for clarification in a different channel (pcc) and is concerned about having to use ICS.
   - [View](https://slack.com/archives/G2ALJBRD1/p1765317320579219)
 
+- [ ] Have maintenance scripts compile a report and use AI agent to create client-friendly report
+  - **Slack**: pxp-hq | @Wylie Thomas | 2025-12-09
+  - Emily Farley mentioned she'd be working on this in Message 2
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765320751936449)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
