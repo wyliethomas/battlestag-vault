@@ -87,6 +87,11 @@
   - Karin Franklin's message about hearing nothing from someone since Friday night
   - [View](https://slack.com/archives/G2ALJBRD1/p1765297980331429)
 
+- [ ] Investigate the link posted by Karin Franklin
+  - **Slack**: pxp-hq | @Karin Franklin | 2025-12-09
+  - Link is to a YouTube short with unknown content
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765299793536449)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
