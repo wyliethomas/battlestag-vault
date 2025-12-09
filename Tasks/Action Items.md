@@ -82,6 +82,11 @@
   - Last heard from him on Friday night, no recent updates.
   - [View](https://slack.com/archives/G2ALJBRD1/p1765228468198689)
 
+- [ ] Update on status with person
+  - **Slack**: pxp-hq | @Karin Franklin | 2025-12-09
+  - Karin Franklin's message about hearing nothing from someone since Friday night
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765297980331429)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
