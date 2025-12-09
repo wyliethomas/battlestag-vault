@@ -102,6 +102,11 @@
   - Emily Farley mentioned she'd be working on this in Message 2
   - [View](https://slack.com/archives/G2ALJBRD1/p1765320751936449)
 
+- [ ] Have AI agent create client-friendly report
+  - **Slack**: pxp-hq | @Emily Farley | 2025-12-09
+  - From Message 1, Emily Farley mentioned having an AI agent create a report for her after receiving a giant report from her maintenance scripts.
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765322290167219)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
