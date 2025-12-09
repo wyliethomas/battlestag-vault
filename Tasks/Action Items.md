@@ -92,6 +92,11 @@
   - Link is to a YouTube short with unknown content
   - [View](https://slack.com/archives/G2ALJBRD1/p1765299793536449)
 
+- [ ] Provide more information about not relying on ICS
+  - **Slack**: pxp-hq | @Emily Farley | 2025-12-09
+  - Wylie Thomas is asking for clarification in a different channel (pcc) and is concerned about having to use ICS.
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765317320579219)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
