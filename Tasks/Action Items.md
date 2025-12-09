@@ -93,3 +93,8 @@
   - **Trello**: PXP-OS | @wyliepxp | 2025-12-02
   - Request from @wyliepxp to Emily Farley
   - [View](https://trello.com/c/CRM)
+
+- [ ] **@Karin** - Check if new mini computer arrived
+  - **Slack**: pxp-hq | @Wylie Thomas | 2025-12-08
+  - Waiting to hear back from Karin about delivery status
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765238198129329)
