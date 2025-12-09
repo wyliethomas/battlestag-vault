@@ -98,3 +98,8 @@
   - **Slack**: pxp-hq | @Wylie Thomas | 2025-12-08
   - Waiting to hear back from Karin about delivery status
   - [View](https://slack.com/archives/G2ALJBRD1/p1765238198129329)
+
+- [ ] **@ICS** - Provide an update by Friday evening at the latest
+  - **Slack**: pxp-hq | @Karin Franklin | 2025-12-09
+  - The message mentions that there were no updates from ICS, but a response is expected.
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765239281343499)
