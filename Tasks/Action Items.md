@@ -137,6 +137,11 @@
   - Liam Smith is asking when the ICS meeting will be scheduled (Message 3 in pcc channel)
   - [View](https://slack.com/archives/G2ALJBRD1/p1765382239961329)
 
+- [ ] Try to keep 2 or 4 mountain open
+  - **Slack**: pxp-hq | @Karin Franklin | 2025-12-10
+  - Message 2 from Wylie Thomas suggesting that if possible, someone should make an effort to manage/keep the 2 or 4 mountain open (context likely refers to a project or task)
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765386882898469)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
