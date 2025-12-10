@@ -107,6 +107,11 @@
   - From Message 1, Emily Farley mentioned having an AI agent create a report for her after receiving a giant report from her maintenance scripts.
   - [View](https://slack.com/archives/G2ALJBRD1/p1765322290167219)
 
+- [ ] Update marketplace with new updates
+  - **Slack**: pxp-hq | @Emily Farley | 2025-12-10
+  - New updates have been pushed to the repo, but haven't been fully tested. The repo README has details. Updates will be an improvement.
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765325443430499)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
