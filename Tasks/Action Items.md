@@ -142,6 +142,11 @@
   - Message 2 from Wylie Thomas suggesting that if possible, someone should make an effort to manage/keep the 2 or 4 mountain open (context likely refers to a project or task)
   - [View](https://slack.com/archives/G2ALJBRD1/p1765386882898469)
 
+- [ ] Ask about point of contact and backup
+  - **Slack**: pcc | @Evan | 2025-12-10
+  - Refer to previous conversations with Optimizely support regarding DXP access
+  - [View](https://slack.com/archives/GME20TMLY/p1765409081930089)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
