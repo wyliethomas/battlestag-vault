@@ -122,6 +122,11 @@
   - Discussion about differentiating from code-based services and adding value through non-code actions
   - [View](https://slack.com/archives/G2ALJBRD1/p1765326436329399)
 
+- [ ] Develop combo model for retainer clients with content ideas and compute time donation
+  - **Slack**: pxp-hq | @Wylie Thomas | 2025-12-10
+  - From Message 1, Wylie Thomas mentioned this idea on a hypothetical client paying $2,700/mo
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765327117602269)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
