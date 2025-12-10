@@ -163,3 +163,8 @@
   - **Slack**: pxp-hq | @Karin Franklin | 2025-12-09
   - The message mentions that there were no updates from ICS, but a response is expected.
   - [View](https://slack.com/archives/G2ALJBRD1/p1765239281343499)
+
+- [ ] **@Liam Smith** - Hop on a call at 4pm mountain with the client
+  - **Slack**: pcc | @Emily Farley | 2025-12-10
+  - Client has messaged and asked for a meeting, waiting on a meeting link still
+  - [View](https://slack.com/archives/GME20TMLY/p1765407517277749)
