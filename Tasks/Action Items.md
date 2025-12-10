@@ -132,6 +132,11 @@
   - Liam and Emily have a conversation about receiving something (likely files or information) similar to what they've seen or experienced before. It appears to be context-specific and related to their work project.
   - [View](https://slack.com/archives/G2ALJBRD1/p1765330388301329)
 
+- [ ] Schedule a time for the ICS meeting
+  - **Slack**: pxp-hq | @Wylie Thomas | 2025-12-10
+  - Liam Smith is asking when the ICS meeting will be scheduled (Message 3 in pcc channel)
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765382239961329)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
