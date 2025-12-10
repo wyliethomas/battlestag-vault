@@ -112,6 +112,11 @@
   - New updates have been pushed to the repo, but haven't been fully tested. The repo README has details. Updates will be an improvement.
   - [View](https://slack.com/archives/G2ALJBRD1/p1765325443430499)
 
+- [ ] Create a library of micro-tutorials on YouTube/Vimeo or a page on your site
+  - **Slack**: pxp-hq | @Karin Franklin | 2025-12-10
+  - For client education and empowerment, reduce client anxiety and make them a better partner.
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765325958609079)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
