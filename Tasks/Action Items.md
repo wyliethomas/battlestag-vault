@@ -117,6 +117,11 @@
   - For client education and empowerment, reduce client anxiety and make them a better partner.
   - [View](https://slack.com/archives/G2ALJBRD1/p1765325958609079)
 
+- [ ] Identify what content could be given away
+  - **Slack**: pxp-hq | @Wylie Thomas | 2025-12-10
+  - Discussion about differentiating from code-based services and adding value through non-code actions
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765326436329399)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
