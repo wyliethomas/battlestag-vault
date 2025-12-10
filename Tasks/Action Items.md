@@ -127,6 +127,11 @@
   - From Message 1, Wylie Thomas mentioned this idea on a hypothetical client paying $2,700/mo
   - [View](https://slack.com/archives/G2ALJBRD1/p1765327117602269)
 
+- [ ] Get the same thing as what is being referred to
+  - **Slack**: pxp-hq | @Emily Farley | 2025-12-10
+  - Liam and Emily have a conversation about receiving something (likely files or information) similar to what they've seen or experienced before. It appears to be context-specific and related to their work project.
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765330388301329)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
