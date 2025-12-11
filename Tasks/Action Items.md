@@ -157,6 +157,11 @@
   - Evan is looking for someone in Tenille's organization who may have been idle.
   - [View](https://slack.com/archives/G2ALJBRD1/p1765420163301719)
 
+- [ ] Investigate and possibly address issue with staff performance
+  - **Slack**: pxp-hq | @Wylie Thomas | 2025-12-11
+  - Someone in Tenille's org/portfolio is not being productive
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765473290363079)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
