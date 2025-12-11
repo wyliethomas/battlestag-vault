@@ -147,6 +147,11 @@
   - Refer to previous conversations with Optimizely support regarding DXP access
   - [View](https://slack.com/archives/GME20TMLY/p1765409081930089)
 
+- [ ] Identify the pencil pusher above (or in Tenille's org/portfolio)
+  - **Slack**: pcc | @Evan | 2025-12-10
+  - Evan suspects someone is not doing much work
+  - [View](https://slack.com/archives/GME20TMLY/p1765411056970319)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
