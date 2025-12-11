@@ -193,3 +193,8 @@
   - **Slack**: pxp-hq | @Emily Farley | 2025-12-11
   - Evan suspects someone in Tenille's organization is not being productive
   - [View](https://slack.com/archives/G2ALJBRD1/p1765420200141969)
+
+- [ ] **@Tenille** - Get Wylie Thomas added to DXP with authorized access
+  - **Slack**: pxp-hq | @Emily Farley | 2025-12-11
+  - Optimizely support replied asking Tenille to authorize the access
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765493106414419)
