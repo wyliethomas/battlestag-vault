@@ -152,6 +152,11 @@
   - Evan suspects someone is not doing much work
   - [View](https://slack.com/archives/GME20TMLY/p1765411056970319)
 
+- [ ] Identify the person responsible for doing 'nothing'
+  - **Slack**: pxp-hq | @Wylie Thomas | 2025-12-11
+  - Evan is looking for someone in Tenille's organization who may have been idle.
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765420163301719)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
