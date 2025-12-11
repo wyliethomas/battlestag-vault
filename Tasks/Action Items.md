@@ -183,3 +183,8 @@
   - **Slack**: pcc | @Emily Farley | 2025-12-10
   - Client has messaged and asked for a meeting, waiting on a meeting link still
   - [View](https://slack.com/archives/GME20TMLY/p1765407517277749)
+
+- [ ] **@Tenille** - Investigate and identify the person who was 'doing a lot of nothing'
+  - **Slack**: pxp-hq | @Emily Farley | 2025-12-11
+  - Evan suspects someone in Tenille's organization is not being productive
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765420200141969)
