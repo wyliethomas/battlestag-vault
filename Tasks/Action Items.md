@@ -177,6 +177,11 @@
   - Message mentions Jr. Dev's almost done state, implying need for review or follow-up
   - [View](https://slack.com/archives/G2ALJBRD1/p1765573794214579)
 
+- [ ] Get workflow to flag card as 'blocked' at logical point
+  - **Slack**: pxp-hq | @Emily Farley | 2025-12-12
+  - Wylie thinking about how to improve development workflow with Jr-Mid dev level, mentions need for card to be flagged as blocked.
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765574585064389)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
