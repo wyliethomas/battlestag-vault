@@ -187,6 +187,11 @@
   - To avoid trusting AI notifications without verification, which can lead to detached humans from the details of their work.
   - [View](https://slack.com/archives/G2ALJBRD1/p1765575204535509)
 
+- [ ] Refine the project-architect agent to comment on cards in the back log and confirm their readiness for the pull queue
+  - **Slack**: pxp-hq | @Wylie Thomas | 2025-12-12
+  - Message from Wylie Thomas expressing a feature request for the project architect agent
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765577972599499)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
