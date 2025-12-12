@@ -197,6 +197,11 @@
   - Integration with jekyll or lightweight software suggested.
   - [View](https://slack.com/archives/G2ALJBRD1/p1765578489647679)
 
+- [ ] Research how ticket systems handle re-attempts and closure
+  - **Slack**: pxp-hq | @Wylie Thomas | 2025-12-12
+  - Wylie Thomas is pondering the impact of AI on ticket handling and wants to learn from other companies.
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765578843812879)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
