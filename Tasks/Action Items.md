@@ -172,6 +172,11 @@
   - Conversation in #pcc suggests attempt was previously made but did not work, and someone else needs to try again
   - [View](https://slack.com/archives/G2ALJBRD1/p1765556525476069)
 
+- [ ] Review Jr. Dev's progress
+  - **Slack**: pxp-hq | @Wylie Thomas | 2025-12-12
+  - Message mentions Jr. Dev's almost done state, implying need for review or follow-up
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765573794214579)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
