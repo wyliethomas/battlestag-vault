@@ -192,6 +192,11 @@
   - Message from Wylie Thomas expressing a feature request for the project architect agent
   - [View](https://slack.com/archives/G2ALJBRD1/p1765577972599499)
 
+- [ ] Hooks up client's staging site to Trello flow
+  - **Slack**: pxp-hq | @Emily Farley | 2025-12-12
+  - Integration with jekyll or lightweight software suggested.
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765578489647679)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
