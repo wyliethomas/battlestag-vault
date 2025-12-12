@@ -167,6 +167,11 @@
   - Wylie Thomas mentioned that an attempt was made but did not work, and they will reattempt
   - [View](https://slack.com/archives/G2ALJBRD1/p1765513251674529)
 
+- [ ] Reattempt to make a process succeed
+  - **Slack**: pxp-hq | @Emily Farley | 2025-12-12
+  - Conversation in #pcc suggests attempt was previously made but did not work, and someone else needs to try again
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765556525476069)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
