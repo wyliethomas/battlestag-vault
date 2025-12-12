@@ -182,6 +182,11 @@
   - Wylie thinking about how to improve development workflow with Jr-Mid dev level, mentions need for card to be flagged as blocked.
   - [View](https://slack.com/archives/G2ALJBRD1/p1765574585064389)
 
+- [ ] Implement verification milestones in agent workflows
+  - **Slack**: pxp-hq | @Emily Farley | 2025-12-12
+  - To avoid trusting AI notifications without verification, which can lead to detached humans from the details of their work.
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765575204535509)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
