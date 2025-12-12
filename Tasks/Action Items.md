@@ -162,6 +162,11 @@
   - Someone in Tenille's org/portfolio is not being productive
   - [View](https://slack.com/archives/G2ALJBRD1/p1765473290363079)
 
+- [ ] Investigate why PXP Code Agent failed to log cost for each card
+  - **Slack**: pxp-hq | @Wylie Thomas | 2025-12-12
+  - Wylie Thomas mentioned that an attempt was made but did not work, and they will reattempt
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765513251674529)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
