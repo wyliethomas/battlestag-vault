@@ -202,6 +202,11 @@
   - Wylie Thomas is pondering the impact of AI on ticket handling and wants to learn from other companies.
   - [View](https://slack.com/archives/G2ALJBRD1/p1765578843812879)
 
+- [ ] Study and implement the context structure offered by the YouTube video
+  - **Slack**: pxp-hq | @Wylie Thomas | 2025-12-13
+  - The context structure of the YouTube video could be a valuable resource for PXP to improve their AI management capabilities.
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765589178640039)
+
 ## Following Up On
 
 - [ ] **@karin** - Prepare sales report for November
