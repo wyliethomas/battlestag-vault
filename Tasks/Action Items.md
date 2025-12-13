@@ -243,3 +243,8 @@
   - **Slack**: pxp-hq | @Emily Farley | 2025-12-11
   - Optimizely support replied asking Tenille to authorize the access
   - [View](https://slack.com/archives/G2ALJBRD1/p1765493106414419)
+
+- [ ] **@Emily Farley** - Study up on the topic
+  - **Slack**: pxp-hq | @Emily Farley | 2025-12-13
+  - Emily will need to study up after receiving message.
+  - [View](https://slack.com/archives/G2ALJBRD1/p1765650048248949)
