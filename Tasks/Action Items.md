@@ -248,3 +248,8 @@
   - **Slack**: pxp-hq | @Emily Farley | 2025-12-13
   - Emily will need to study up after receiving message.
   - [View](https://slack.com/archives/G2ALJBRD1/p1765650048248949)
+
+- [ ] **@Karin Franklin** - Resend invoice to Cam from Dirt Logics
+  - **Slack**: pxp-hq | @Wylie Thomas | 2025-12-22
+  - Karin needs to send the invoice for $2700/mo after receiving confirmation from Wylie Thomas that he's ready.
+  - [View](https://slack.com/archives/G2ALJBRD1/p1766426815610989)
